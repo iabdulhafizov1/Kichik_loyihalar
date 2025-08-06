@@ -1,0 +1,6 @@
+C:\Users\os\Documents\SharpDevelop Projects\Son topish oyini\Son topish oyini\obj\Debug\Son topish oyini.csprojResolveAssemblyReference.cache
+C:\Users\os\Documents\SharpDevelop Projects\Son topish oyini\Son topish oyini\bin\Debug\Son topish oyini.exe.config
+C:\Users\os\Documents\SharpDevelop Projects\Son topish oyini\Son topish oyini\bin\Debug\Son topish oyini.exe
+C:\Users\os\Documents\SharpDevelop Projects\Son topish oyini\Son topish oyini\bin\Debug\Son topish oyini.pdb
+C:\Users\os\Documents\SharpDevelop Projects\Son topish oyini\Son topish oyini\obj\Debug\Son topish oyini.exe
+C:\Users\os\Documents\SharpDevelop Projects\Son topish oyini\Son topish oyini\obj\Debug\Son topish oyini.pdb
