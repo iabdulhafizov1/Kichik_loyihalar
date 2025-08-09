@@ -14,7 +14,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot tokeni
-TOKEN = "7654657103:AAFvcFJ8rATtfftgh6FhveZxTIKuIQWk2Fc"
+TOKEN = "7654657103:AAGCkI1IFn_ThjLwKZRAiJyvHv76y5vEZvE"
 
 # Foydalanuvchilar uchun vaqtinchalik ma'lumotlar
 user_data = {}
